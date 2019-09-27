@@ -1,4 +1,4 @@
-# Integrate LittleFS into ESP32-IDF and make it as backend of VFS framework
+# Port LittleFS into ESP32-IDF
 LittleFS is a port of [LittleFS](https://github.com/geky/littlefs) to the ESP32-IDF and it can function as backend of VFS framework
 
 To use this component as official component of ESP32-IDF, we need to modify two files of ESP32-IDF SDK
